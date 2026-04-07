@@ -1,0 +1,7 @@
+{
+  "name": "Polymarket Liquidity API",
+  "description": "Real-time Polymarket prediction market liquidity data. Order book depth, bid/ask spread analysis, and market efficiency scoring for AI agents. $0.005 USDC per request on Base. No API key required.",
+  "logoUrl": "/logos/polymarket-liquidity-api.png",
+  "websiteUrl": "https://polymarket-liquidity-api.tatsu77.workers.dev",
+  "category": "Services/Endpoints"
+}
