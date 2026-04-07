@@ -1,0 +1,7 @@
+{
+  "name": "Token Intelligence API",
+  "description": "EVM token security analysis API with deterministic risk scoring. Returns holder analysis, contract risk flags, liquidity data, and natural language summary for any EVM token. $0.005 USDC per request on Base. No API key required.",
+  "logoUrl": "/logos/token-intel-api.png",
+  "websiteUrl": "https://token-intel-api.tatsu77.workers.dev",
+  "category": "Services/Endpoints"
+}
