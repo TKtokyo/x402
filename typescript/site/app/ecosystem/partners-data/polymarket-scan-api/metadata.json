@@ -1,0 +1,7 @@
+{
+  "name": "Polymarket Scan API",
+  "description": "Automated Polymarket market scanner detecting liquidity anomalies and trade opportunities. Scans all active markets every 60s via Cron. Returns AVOID_ENTRY / MONITOR / CONSIDER_ENTRY recommendations with confidence scores. $0.018 USDC per scan, $0.005 USDC for 24h history. No API key required.",
+  "logoUrl": "/logos/polymarket-scan-api.png",
+  "websiteUrl": "https://polymarket-scan-api.tatsu77.workers.dev",
+  "category": "Services/Endpoints"
+}
